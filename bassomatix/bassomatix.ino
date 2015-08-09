@@ -9,6 +9,8 @@ https://github.com/jonnosan/bassomatix/blob/master/README.md
 
 Circuit is set up as:
 
+D8: MIDI RX
+D9: MIDI TX
 D10 (switch) : hold current riff
 D11 (LED) : beat clock
 D12 (sitch) : sync: external MIDI or internal
